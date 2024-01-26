@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+### Output :
 
-This project is a starting point for a Flutter application.
+https://github.com/adityaashinde/Palindrome-Count-App/assets/94387380/9e3681ec-11a0-4de4-bf74-4d2940812cee
 
-A few resources to get you started if this is your first Flutter project:
+![palindrome-app(1)](https://github.com/adityaashinde/Palindrome-Count-App/assets/94387380/8834c7b7-a99c-4a09-87ca-e137b0defcfc)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![palindrome-app(3)](https://github.com/adityaashinde/Palindrome-Count-App/assets/94387380/14eab910-2107-43d5-ac1f-a3ff01dda3d5)
